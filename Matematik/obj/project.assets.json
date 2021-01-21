@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erenk\\Desktop\\YazılımKampı\\Metotlar\\Matematik\\Matematik.csproj",
+      "projectUniqueName": "C:\\Users\\erenk\\Desktop\\Metotlar\\Matematik\\Matematik.csproj",
       "projectName": "Matematik",
-      "projectPath": "C:\\Users\\erenk\\Desktop\\YazılımKampı\\Metotlar\\Matematik\\Matematik.csproj",
+      "projectPath": "C:\\Users\\erenk\\Desktop\\Metotlar\\Matematik\\Matematik.csproj",
       "packagesPath": "C:\\Users\\erenk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erenk\\Desktop\\YazılımKampı\\Metotlar\\Matematik\\obj\\",
+      "outputPath": "C:\\Users\\erenk\\Desktop\\Metotlar\\Matematik\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erenk\\AppData\\Roaming\\NuGet\\NuGet.Config",

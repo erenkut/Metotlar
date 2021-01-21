@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erenk\\Desktop\\YazılımKampı\\Metotlar\\RefeVeReferansTipler\\RefeVeReferansTipler.csproj": {}
+    "C:\\Users\\erenk\\Desktop\\Metotlar\\RefeVeReferansTipler\\RefeVeReferansTipler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erenk\\Desktop\\YazılımKampı\\Metotlar\\RefeVeReferansTipler\\RefeVeReferansTipler.csproj": {
+    "C:\\Users\\erenk\\Desktop\\Metotlar\\RefeVeReferansTipler\\RefeVeReferansTipler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erenk\\Desktop\\YazılımKampı\\Metotlar\\RefeVeReferansTipler\\RefeVeReferansTipler.csproj",
+        "projectUniqueName": "C:\\Users\\erenk\\Desktop\\Metotlar\\RefeVeReferansTipler\\RefeVeReferansTipler.csproj",
         "projectName": "RefeVeReferansTipler",
-        "projectPath": "C:\\Users\\erenk\\Desktop\\YazılımKampı\\Metotlar\\RefeVeReferansTipler\\RefeVeReferansTipler.csproj",
+        "projectPath": "C:\\Users\\erenk\\Desktop\\Metotlar\\RefeVeReferansTipler\\RefeVeReferansTipler.csproj",
         "packagesPath": "C:\\Users\\erenk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erenk\\Desktop\\YazılımKampı\\Metotlar\\RefeVeReferansTipler\\obj\\",
+        "outputPath": "C:\\Users\\erenk\\Desktop\\Metotlar\\RefeVeReferansTipler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
